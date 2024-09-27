@@ -20,3 +20,9 @@ We are always looking to expand our collection. If you have historical documents
 <b>Educational Resources</b>
 
 Teachers and students can find curated sets of documents and accompanying lesson plans on our Education page. These resources are designed to support curriculum-based learning about Chinese-Canadian history.
+
+---
+<b>Collection Highlights</b>
+
+- Official Documents and Correspondence （文牘存稿）
+- Collection of Correspondence from Various Sources （各方來函彙存）
