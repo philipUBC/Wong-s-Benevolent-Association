@@ -21,10 +21,10 @@ This site is the Vancouver Wong's Benevolent Association Digital Collection of t
 Oue Mission
 The Wong's Benevolent Association Digital Collection is dedicated to preserving, digitizing, and sharing the rich cultural heritage of the Wong family and the broader Chinese-Canadian community in Vancouver. Our mission is to create a comprehensive digital archive that celebrates our history, fosters cultural understanding, and provides a valuable resource for education and research.
 
-Our Vision
+<b>Our Vision</b>
 We envision a future where the stories, struggles, and triumphs of Chinese-Canadians are widely accessible, recognized, and celebrated as an integral part of Canada's multicultural tapestry. Through our digital collection, we aim to bridge generations, connect communities, and inspire a deeper appreciation for the contributions of Chinese-Canadians to the fabric of our nation.
 
-Our Goals
+<b>Our Goals</b>
 - Digitize and preserve historical documents, photographs, artifacts, and oral histories related to the Wong family and Chinese-Canadian community in Vancouver.
 - Create a user-friendly, accessible online platform for researchers, educators, students, and the general public to explore our digital collections.
 - Develop educational resources and programs that promote understanding of Chinese-Canadian history and culture.
@@ -34,7 +34,8 @@ Our Goals
 - Foster intergenerational dialogue and connection within the Chinese-Canadian community.
 - Promote cross-cultural understanding and appreciation of diversity in Canadian society.
 
-Our Commitment
+<b>Our Commitment</b>
+
 We are committed to:
 
 1. Upholding the highest standards of digital archiving and preservation
