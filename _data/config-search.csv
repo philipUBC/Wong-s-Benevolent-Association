@@ -1,5 +1,6 @@
 field,index,display
 title,true,true
+title (chinese),true,true
 date,true,true
 creator,true,false
 description,true,true
