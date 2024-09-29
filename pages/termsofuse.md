@@ -6,7 +6,7 @@ permalink: /terms-of-use.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
-
+---
 ## 1. Acceptance of Terms
 By accessing and using the Wong's Benevolent Association (WBA) Digital Collection website, you agree to comply with and be bound by these Terms of Use. If you do not agree to these terms, please do not use our website.
 
