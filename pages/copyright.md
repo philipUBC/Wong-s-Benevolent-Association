@@ -46,7 +46,7 @@ Copyright Notice
 ## 6. Contact Information
 For copyright inquiries or to submit a takedown request, please contact us at:
 
-Copyright Officer
+<b>Copyright Officer</b>
 Wong's Benevolent Association Digital Collection
 123 Pender East Street
 Vancouver, BC V6A 1T6
