@@ -1,5 +1,5 @@
 ---
-title: Digital Collection Policy
+title: Policy
 layout: about
 permalink: /digital-collection-policy.html
 # include CollectionBuilder info at bottom
@@ -12,11 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Wong's Benevolent Association Digital Collection Framework
+## Wong's Benevolent Association Digital Collection Policy
 
 Our policies guide our operations and ensure the integrity, accessibility, and proper use of our digital collections. Please review these policies to understand your rights and responsibilities when using our resources.
-
-## Policies
 
 <b>Privacy Policy</b>
 Our commitment to protecting your personal information and how we use data collected through our digital platforms.
@@ -59,4 +57,3 @@ If you have any questions, concerns, or feedback regarding our policies, please 
 ## Language Accessibility
 To better serve our diverse community, we are working on providing translations of our key policies in Chinese. If you require assistance understanding any of our policies due to language barriers, please contact our support team.
 
-{% include cb/about_the_about.md %} 
