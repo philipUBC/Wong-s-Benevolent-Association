@@ -9,7 +9,7 @@ credits: true
 ---
 
 ## Privacy Policy
-Last updated: [Current Date]
+Last updated: 2024-09-29
 
 <b>1. Introduction</b>
 
@@ -29,9 +29,13 @@ Participate in activities on the website (such as posting comments or contributi
 The personal information we collect may include:
 
 <i>- Name</i>
+
 <i>- Email address</i>
+
 <i>- Mailing address</i>
+
 <i>- Phone number</i>
+
 <i>- User-generated content (such as comments or contributions to our digital collection)</i>
 
 
@@ -89,5 +93,5 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 Wong's Benevolent Association Digital Collection
 123 Pender East Street
 Vancouver, BC V6A 1T6
-Email: [johndoe@wongbenevolent.org]
+Email: johndoe@wongbenevolent.org
 Phone: (604) 555-0123
