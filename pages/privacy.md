@@ -95,7 +95,11 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 Wong's Benevolent Association Digital Collection
+
 123 Pender East Street
+
 Vancouver, BC V6A 1T6
+
 Email: johndoe@wongbenevolent.org
+
 Phone: (604) 555-0123
