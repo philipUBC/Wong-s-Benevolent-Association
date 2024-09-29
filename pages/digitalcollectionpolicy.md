@@ -21,7 +21,7 @@ Our policies guide our operations and ensure the integrity, accessibility, and p
 Our commitment to protecting your personal information and how we use data collected through our digital platforms.
 
 
-<b>Term of Use</b>
+<b>[Term of Use](https://wongsyvr.github.io/Wong-s-Benevolent-Association//terms-of-use.html)</b>
 
 The rules and guidelines governing the use of our website and digital collections.
 
