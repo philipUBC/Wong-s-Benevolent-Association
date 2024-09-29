@@ -7,7 +7,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html objectid="" %}
 
+{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## 1. Acceptance of Terms
 ---
@@ -55,13 +57,9 @@ These Terms of Use shall be governed by and construed in accordance with the law
 If you have any questions about these Terms of Use, please contact us at:
 
 Wong's Benevolent Association
-
 123 Pender East Street
-
 Vancouver, BC V1A 1B2
-
 Email: info@wongbenevolent.org
-
 Phone: (604) 555-1234
 
-Last updated: May 15, 2023
+Last updated: Sep 29, 2024
