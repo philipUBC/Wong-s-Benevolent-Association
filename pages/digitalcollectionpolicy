@@ -2,15 +2,18 @@
 title: Digital Collection Policy
 layout: about
 permalink: /digitalcollectionpolicy.html
+credits: true
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## Wong's Benevolent Association Digital Collection Policies
+## Wong's Benevolent Association Digital Collection Framework
 
 Our policies guide our operations and ensure the integrity, accessibility, and proper use of our digital collections. Please review these policies to understand your rights and responsibilities when using our resources.
+
+## Policies
 
 <b>Privacy Policy</b>
 Our commitment to protecting your personal information and how we use data collected through our digital platforms.
@@ -52,3 +55,5 @@ If you have any questions, concerns, or feedback regarding our policies, please 
 
 ## Language Accessibility
 To better serve our diverse community, we are working on providing translations of our key policies in Chinese. If you require assistance understanding any of our policies due to language barriers, please contact our support team.
+
+{% include cb/about_the_about.md %} 
