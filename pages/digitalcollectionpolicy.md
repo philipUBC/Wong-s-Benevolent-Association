@@ -16,35 +16,43 @@ credits: true
 
 Our policies guide our operations and ensure the integrity, accessibility, and proper use of our digital collections. Please review these policies to understand your rights and responsibilities when using our resources.
 
-<b>Privacy Policy</b>
+<b>[Privacy Policy](https://wongsyvr.github.io/Wong-s-Benevolent-Association//privacy.html)</b>
+
 Our commitment to protecting your personal information and how we use data collected through our digital platforms.
 
 
 <b>Term of Use</b>
+
 The rules and guidelines governing the use of our website and digital collections.
 
 
 <b>Copyright Policy</b>
+
 Details on the copyright status of our materials and guidelines for fair use and reproduction.
 
 
 <b>Collection Development Policy</b>
+
 Our criteria and processes for selecting and acquiring materials for the digital collection.
 
 
 <b>Access and Use Policy</b>
+
 Information on how to access our digital resources and any usage restrictions.
 
 
 <b>Digital Preservation Policy</b>
+
 Our strategies and commitments for long-term preservation of digital materials.
 
 
 <b>Donation Policy</b>
+
 Guidelines for those interested in contributing materials to our digital collection.
 
 
 <b>Accessibility Policy</b>
+
 Our commitment to making our digital resources accessible to all users.
 
 
