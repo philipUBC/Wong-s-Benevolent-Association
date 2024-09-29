@@ -26,7 +26,7 @@ Our commitment to protecting your personal information and how we use data colle
 The rules and guidelines governing the use of our website and digital collections.
 
 
-<b>Copyright Policy</b>
+<b>[Copyright Policy](https://wongsyvr.github.io/Wong-s-Benevolent-Association//copyright.html)</b>
 
 Details on the copyright status of our materials and guidelines for fair use and reproduction.
 
