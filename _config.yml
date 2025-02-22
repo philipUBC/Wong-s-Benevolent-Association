@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Wongs' Benevolent Association
+title: Wong's Benevolent Association
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Preserving the History and Stories of the Wongs' Clan
+tagline: Preserving the History and Stories of the Wong's Clan
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Wongs' Benevolent Association aims at preserving the rich history and stories of early Chinese Canadian immigrants from the Wong clan."
+description: "Wong's Benevolent Association aims at preserving the rich history and stories of early Chinese Canadian immigrants from the Wong clan."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Wongs' Benevolent Association
+author: Wong's Benevolent Association
 
 ##########
 # COLLECTION SETTINGS
