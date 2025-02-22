@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 hierarchytype,Browse by Hierarchy,,,Hierarchical Level
 date,Browse by Date,,,Date
-chinesetitle,Title (Chinese),true,,Chinese Title
-englishtitle,English Title,true,,English Title
+chinesetitle,Chinese Title,,,Chinese Title
+englishtitle,English Title,,,English Title
 subject,Browse by Subject,true,,Subject
