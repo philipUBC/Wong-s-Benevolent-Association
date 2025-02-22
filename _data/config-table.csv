@@ -1,5 +1,6 @@
 field,display_name
-title,Title
+chinesetitle,Chinese Title
+englishtitle,English Title
 date,Date
 description,Description
 subject,Subjects
