@@ -1,8 +1,7 @@
 field,index,display
-title,true,true
-title (Chinese),true,true
+chinese title,true,true
+english title,true,true
 date,true,true
-creator,true,true
 description,true,true
-subject,true,true
-location,true,false
+identifier,true,true
+content type,true,true
