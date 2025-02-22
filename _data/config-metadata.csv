@@ -1,17 +1,12 @@
 field,display_name,browse_link,external_link
-title,Title,
-title (Chinese),Title (Chinese),
-creator,Creator,
-date,Date Created,
+chinese title,Title (Chinese),
+english title,Title (English),
+content type,Content Type,
+date,Date,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-language,Language
-rights,Rights,
-rightsstatement,Rights Statement,,true
+entered by,Entered by,
+identifier,Identifier,
+language,Language,
+rationale,Rationale,
+risk,Risk,
+subject,Subject,
