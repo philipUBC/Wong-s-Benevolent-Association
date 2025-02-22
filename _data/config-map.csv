@@ -1,4 +1,5 @@
 field,display_name,search
 date,Date,true
-chinese title,Chinese Title,true
-english title,English Title,true
+creator,Creator,true
+subject,Subjects,true
+location,Location,true
