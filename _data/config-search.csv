@@ -1,9 +1,8 @@
 field,index,display
-englishtitle,true,true
-title,true,true
-chinesetitle,true,true
+english_title,true,true
+chinese_title,true,true
+chinese_title,true,true
 date,true,true
-creator,true,true
 description,true,true
 subject,true,true
 location,true,false
