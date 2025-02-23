@@ -1,17 +1,17 @@
-field,display_name,browse_link,external_link,dc_map
-chinese_title,Chinese Title,,,DCTERMS.title
-english_title,English TItle,,,DCTERMS.description
-entered_by,Entered By,,,DCTERMS.creator
-date,Date,,,DCTERMS.date
-description,Description,,,DCTERMS.description
-subject,Subjects,TRUE,,DCTERMS.subject
-location,Location,TRUE,,DCTERMS.spatial
-latitude,Latitude,,,DCTERMS.spatial
-longitude,Longitude,,,DCTERMS.spatial
-source,Source,,,DCTERMS.source
-identifier,Identifier,,,DCTERMS.identifier
-type,Type,,,DCTERMS.type
-format,Format,,,DCTERMS.format
-language,Language,,,DCTERMS.language
-rationale,Rationale,,,DCTERMS.rights
-risk,Risk,,TRUE,DCTERMS.rights
+field,display_name,browse_link,external_link
+chinese_title,Chinese Title,,
+english_title,English TItle,,
+entered_by,Entered By,,
+date,Date,,
+description,Description,,
+subject,Subjects,TRUE,
+location,Location,TRUE,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
+identifier,Identifier,,
+type,Type,,
+format,Format,,
+language,Language,,
+rationale,Rationale,,
+risk,Risk,,TRUE
