@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
-english_title,Browse by English Title,,,English Title
-date,Browse by Date,,,Date
-subject,Browse by Subject,true,,Subject
+date,Date,,,Date
+creator,Creator,,,
+subject,,true
+location,,true
