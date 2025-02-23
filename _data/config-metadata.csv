@@ -1,35 +1,17 @@
-field,display_name,browse_link,external_link,dc_map,description
-chinese_title,Chinese Title,,,DCTERMS.title,
-english_title,English TItle,,,DCTERMS.title,
-entered_by,Entered By,,,DCTERMS.creator,
-date,Date,,,DCTERMS.created,
-description,Description,,,DCTERMS.description,
-subject,Subjects,TRUE,,DCTERMS.subject,
-location,Location,TRUE,,DCTERMS.spatial,
-latitude,Latitude,,,DCTERMS.spatial,
-longitude,Longitude,,,DCTERMS.spatial,
-source,Source,,,DCTERMS.source,
-identifier,Identifier,,,,
-content_type,Content Type,,,DCTERMS.type,
-format,Format,,,DCTERMS.format,
-language,Language,,,DCTERMS.language,
-rationale,Rationale,,,DCTERMS.rights,
-risk,Risk,,TRUE,DCTERMS.rights,
-hierarchytype,Hierarchical Level,TRUE,,DCTERMS.type,
-parentid,Parent ID,,,,
-fonds_id,Fonds Reference,,,,
-series_id,Series Reference,,,,
-file_id,File Reference,,,,
-custodial_history,Custodial History,,,DCTERMS.provenance,
-scope_content,Scope and Content,,,DCTERMS.description,
-admin_history,Administrative History,,,DCTERMS.description,
-physical_condition,Physical Condition,,,DCTERMS.description,
-arrangement_note,Arrangement Note,,,DCTERMS.description,
-related_materials,Related Materials,,,DCTERMS.relation,
-access_restrictions,Access Restrictions,,,DCTERMS.rights,
-reproduction_restrictions,Reproduction Restrictions,,,DCTERMS.rights,
-finding_aids,Finding Aids,,,DCTERMS.description,
-original_copies,Location of Originals,,,DCTERMS.source,
-other_formats,Alternative Formats,,,DCTERMS.hasFormat,
-accruals,Accruals,,,DCTERMS.accrualMethod,
-general_note,General Note,,,DCTERMS.description,
+field,display_name,browse_link,external_link,dc_map
+chinese_title,Chinese Title,,,DCTERMS.title
+english_title,English TItle,,,DCTERMS.description
+entered_by,Entered By,,,DCTERMS.creator
+date,Date,,,DCTERMS.date
+description,Description,,,DCTERMS.description
+subject,Subjects,TRUE,,DCTERMS.subject
+location,Location,TRUE,,DCTERMS.spatial
+latitude,Latitude,,,DCTERMS.spatial
+longitude,Longitude,,,DCTERMS.spatial
+source,Source,,,DCTERMS.source
+identifier,Identifier,,,DCTERMS.identifier
+type,Type,,,DCTERMS.type
+format,Format,,,DCTERMS.format
+language,Language,,,DCTERMS.language
+rationale,Rationale,,,DCTERMS.rights
+risk,Risk,,TRUE,DCTERMS.rights
