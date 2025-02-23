@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 chinese_title,Chinese Title,,
-english_title,English TItle,,
-entered_by,Entered By,,
+english_title,English Title,,
+creator,Entered By,,
 date,Date,,
 description,Description,,
 subject,Subjects,TRUE,
