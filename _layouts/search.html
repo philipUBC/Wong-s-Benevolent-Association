@@ -57,6 +57,11 @@ custom-foot: js/lunr-js.html
         let query = document.getElementById('lunrSearchBox').value;
         if (!query) return;
         
+        // Use TinySegmenter to tokenize Chinese text
+        function tokenizeChinese(text) {
+            return text.split('').filter(c => c.trim().length > 0);
+        }
+        
         // Initialize Lunr with Chinese support
         let idx = lunr(function () {
             this.use(lunr.zh);
@@ -65,8 +70,11 @@ custom-foot: js/lunr-js.html
             this.field('description');
         });
         
+        // Segment input query
+        let segmentedQuery = tokenizeChinese(query).join(' ');
+        
         // Perform search
-        let results = idx.search(query);
+        let results = idx.search(segmentedQuery);
         
         // Display results
         let resultsContainer = document.getElementById('lunrResults');
