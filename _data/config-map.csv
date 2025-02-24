@@ -1,4 +1,6 @@
 field,display_name,search
 date,Date,true
+chinese_title,Chinese Title,true
+english_title,English Title,true
 subject,Subjects,true
 location,Location,true
