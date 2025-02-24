@@ -3,33 +3,63 @@
 layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.objectid != nil' -%}
-<div class="row">
-  <div class="col-md-8">
+<style>
+  /* New design styling */
+  .hero-banner {
+    background: linear-gradient(135deg, #334257, #6a82fb);
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 20px;
+    font-family: 'Helvetica Neue', sans-serif;
+    margin-bottom: 30px;
+  }
+  .hero-banner h1 {
+    font-size: 3em;
+    margin: 0;
+    line-height: 1.2;
+  }
+  .hero-banner p {
+    font-size: 1.2em;
+    margin-top: 10px;
+  }
+  .content-container {
+    padding: 20px;
+    font-family: 'Georgia', serif;
+  }
+</style>
+<div class="hero-banner">
+  <h1>Welcome to the Digital Archive</h1>
+  <p>Discover Our Captivating Collections</p>
+</div>
+<div class="content-container">
+  <div class="row">
+    <div class="col-md-8">
 
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" height="300" %}
+      {% include index/description.html %}
+      {% include index/carousel.html title="Sample Items" height="300" %}
   
-  </div>
-  <div class="col-md-4">  
+    </div>
+    <div class="col-md-4">  
 
-    {% include index/time.html %}
+      {% include index/time.html %}
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
+      {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
 
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
+      {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
 
-    {% include index/objects.html %}
+      {% include index/objects.html %}
 
-  </div>
-  <div class="col-md-12">
+    </div>
+    <div class="col-md-12">
 
-    {% include feature/timelinejs.html %}
+      {% include feature/timelinejs.html %}
 
-   </div>
+    </div>
   
-  <div class="col-md-12">
+    <div class="col-md-12">
 
-    {% include index/data-download.html %}
+      {% include index/data-download.html %}
 
+    </div>
   </div>
 </div>
