@@ -1,4 +1,5 @@
 field,index,display
+title,true,true
 english_title,true,true
 chinese_title,true,true
 date,true,true
