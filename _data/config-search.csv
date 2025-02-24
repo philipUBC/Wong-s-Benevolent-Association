@@ -1,7 +1,6 @@
 field,index,display
 english_title,true,true
 chinese_title,true,true
-chinese_title,true,true
 date,true,true
 description,true,true
 subject,true,true
