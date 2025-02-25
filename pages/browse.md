@@ -26,3 +26,4 @@ Teachers and students can find curated sets of documents and accompanying lesson
 
 - Official Documents and Correspondence （文牘存稿）
 - Collection of Correspondence from Various Sources （各方來函彙存）
+- Wong Kung Har Tong Company Limited (實業公司文稿）
